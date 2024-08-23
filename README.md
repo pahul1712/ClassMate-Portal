@@ -1,0 +1,1 @@
+## ClassMate-Portal Database for Entire records of Students in the College
